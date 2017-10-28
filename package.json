@@ -10,5 +10,12 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.2"
+  },
+  "repository":{
+    "type": "git",
+    "url": "https://github.com/HakimiX/nodeapp"
+  },
+  "engines":{
+    "node":"8.3.0"
   }
 }
