@@ -1,0 +1,14 @@
+{
+  "name": "nodeapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "hakimi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
